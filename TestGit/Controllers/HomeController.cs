@@ -15,7 +15,7 @@ namespace TestGit.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "second Change";
+            ViewBag.Message = "Third Change";
 
             return View();
         }
